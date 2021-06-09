@@ -18,8 +18,8 @@ header button {
   font-size: 14px;
   padding: 5px 15px;
   border-radius: 5px;
-  border: 0;
-  background-color: darkblue;
+  border: none;
+  background-color: #0567c3;
   color: #fff;
 }
 #exampleModal {

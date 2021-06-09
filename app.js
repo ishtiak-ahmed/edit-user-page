@@ -10,7 +10,5 @@ table.addEventListener('click', e => {
         document.getElementById('emailField').value = email
         document.getElementById('phone').value = phone
         document.getElementById('role').value = role
-    } else {
-        console.log('other clicked')
     }
 })
