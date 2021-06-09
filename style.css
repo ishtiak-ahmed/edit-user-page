@@ -4,6 +4,12 @@
 span i {
   cursor: pointer;
 }
+.edit-btn i {
+  color: blue;
+}
+.delete-btn i {
+  color: red;
+}
 header {
   padding: 1em 0;
   align-items: center;
