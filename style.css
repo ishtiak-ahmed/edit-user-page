@@ -1,0 +1,27 @@
+.edit-btn {
+  margin-left: 1em;
+}
+span i {
+  cursor: pointer;
+}
+header {
+  padding: 1em 0;
+  align-items: center;
+  line-height: 30px;
+}
+header span {
+  font-size: 25px;
+  font-weight: bold;
+  margin-right: 2em;
+}
+header button {
+  font-size: 14px;
+  padding: 5px 15px;
+  border-radius: 5px;
+  border: 0;
+  background-color: darkblue;
+  color: #fff;
+}
+#exampleModal {
+  background-color: rgba(0, 0, 0, 0.7);
+}
